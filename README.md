@@ -5,3 +5,4 @@ K8s manifests for product-service (Argo CD GitOps)
 Argo CD GitOps 部署清单。
 
 测试 Tekton Triggers 自动触发（2026-09-15）
+测试 Tekton Triggers 自动触发（修复后）
